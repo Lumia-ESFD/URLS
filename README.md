@@ -15,3 +15,8 @@ https://namefake.com/
 ```
 https://thispersondoesnotexist.com/
 ``` 
+
+## 图床
+```
+https://img.ink/
+```
